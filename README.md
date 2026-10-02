@@ -26,6 +26,7 @@ modelados em DAX com bases abertas do IBGE e ANTT. Focado em Business Intelligen
 
 
 <img width="1314" height="808" alt="image" src="https://github.com/user-attachments/assets/86c53c38-58a5-4bc1-be61-51a019df3e47" />
+
 # Power BI
 
  Metadados estruturais, definição de páginas e esquema de segurança do projeto em Power BI. Contém as diretivas de layout, versionamento e interações dos visuais dinâmicos da malha logística e demográfica.
