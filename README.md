@@ -30,8 +30,4 @@ Dashboards em Power BI modelados em DAX com bases abertas do IBGE e ANTT. Focado
 <img width="977" height="533" alt="image" src="https://github.com/user-attachments/assets/f8ecc407-184a-4394-968a-ba6a181f0971" />
  
 
-# 📊 Fontes de Dados & Business Intelligence
 
-![Excel](https://shields.io) ![Power BI](https://shields.io) ![FATEC SJC](https://shields.io)
-
-Este repositório reúne os projetos e atividades práticas...
