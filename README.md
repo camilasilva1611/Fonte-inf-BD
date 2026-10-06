@@ -5,6 +5,7 @@
 
 Apresentação sobre "Quem somos nós?"
 -
+*Olá! Me chamo Camila, sou aluna da FATEC de São José dos Campos, e essa atividade é sobre Apresentação Pessoal, "SOBRE NÓS".*
 
 <img width="1295" height="728" alt="image" src="https://github.com/user-attachments/assets/544edf94-c5ef-4a21-b900-078d2b3f2904" />
 
