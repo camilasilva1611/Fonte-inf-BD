@@ -55,3 +55,9 @@ Foi utilizada a plataforma Google Colab com Python e as bibliotecas Pandas, Matp
 
 <img width="1004" height="578" alt="image" src="https://github.com/user-attachments/assets/56411c46-1448-4446-933c-8e8a8e1e03a4" />
 
+# Expectativa de Vida
+*Projeto no Power BI com três dashboards sobre expectativa de vida: visão geral mundial, comparação entre países e evolução do Brasil, com dados até 2023.*
+
+<img width="1311" height="684" alt="image" src="https://github.com/user-attachments/assets/a7c42372-082c-4ca7-ac52-40aeae45cd27" />
+
+
