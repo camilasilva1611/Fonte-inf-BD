@@ -43,3 +43,15 @@ Apresentação sobre "Quem somos nós?"
 
 <img width="1433" height="792" alt="image" src="https://github.com/user-attachments/assets/76b96ecd-13a5-4149-b113-949eb1d891c9" />
 
+# Etapa 1 — Análise no LibreOffice Calc
+
+*O projeto consistiu na análise de uma base de dados com 200 estudantes, utilizando o LibreOffice Calc para organizar as informações, corrigir dados numéricos e desenvolver um gráfico de dispersão com linha de tendência, permitindo visualizar a relação entre horas de estudo e notas obtidas nas provas.*
+
+<img width="1654" height="685" alt="image" src="https://github.com/user-attachments/assets/30c0585b-42a9-4527-b8c7-0ce1db8aa877" />
+
+# Etapa 2 — Regressão Linear no Google Colab
+
+Foi utilizada a plataforma Google Colab com Python e as bibliotecas Pandas, Matplotlib e Scikit-learn para realizar o tratamento dos dados e aplicar um modelo de regressão linear. Os resultados identificaram uma correlação positiva entre o tempo de estudo e o desempenho acadêmico, com R² de 60,33%, demonstrando a aplicação prática de análise de dados, estatística e modelagem preditiva.
+
+<img width="1004" height="578" alt="image" src="https://github.com/user-attachments/assets/56411c46-1448-4446-933c-8e8a8e1e03a4" />
+
