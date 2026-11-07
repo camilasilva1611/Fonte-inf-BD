@@ -39,6 +39,7 @@ Apresentação sobre "Quem somos nós?"
  
 # ANTT - MAPAS
 
-*texto de apoio*
+*Desenvolvimento de dashboard no Power BI para visualização e análise da distribuição geográfica das empresas de transporte multimodal cadastradas na ANTT, com mapas e informações organizadas por cidades e estados.*
 
-Print da imagem
+<img width="1433" height="792" alt="image" src="https://github.com/user-attachments/assets/76b96ecd-13a5-4149-b113-949eb1d891c9" />
+
