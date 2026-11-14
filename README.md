@@ -71,7 +71,8 @@ Foi utilizada a plataforma Google Colab com Python e as bibliotecas Pandas, Matp
 <img width="1312" height="739" alt="image" src="https://github.com/user-attachments/assets/2cfb06e2-2eb6-4be4-bf42-e323352a7817" />
 
 
-
+# Gráfico dispersão - comparação das médias dos homens e das mulheres
+<img width="1666" height="759" alt="image" src="https://github.com/user-attachments/assets/a6fa5e6a-3646-4fbc-bb12-6c8c40cb9828" />
 
 
 
