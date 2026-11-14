@@ -75,6 +75,9 @@ Foi utilizada a plataforma Google Colab com Python e as bibliotecas Pandas, Matp
 
 
 # Gráfico dispersão - comparação das médias dos homens e das mulheres
+
+*O gráfico mostra uma forte relação entre a idade média dos homens e das mulheres ao casar.*
+
 <img width="1666" height="759" alt="image" src="https://github.com/user-attachments/assets/a6fa5e6a-3646-4fbc-bb12-6c8c40cb9828" />
 
 
