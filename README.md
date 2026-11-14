@@ -67,6 +67,10 @@ Foi utilizada a plataforma Google Colab com Python e as bibliotecas Pandas, Matp
 
 <img width="1462" height="758" alt="image" src="https://github.com/user-attachments/assets/9d3cef4b-a054-45b0-97a7-3068888a0a56" />
 
+# Investimentos Captados
+<img width="1312" height="739" alt="image" src="https://github.com/user-attachments/assets/2cfb06e2-2eb6-4be4-bf42-e323352a7817" />
+
+
 
 
 
